@@ -2,7 +2,7 @@
 
 <p>This Repository contains the backend code for the Shop Master for Django application.</p>
 
-<p><a href="https://github.com/NICANORKYAMBA/shop-master-django">https://github.com/NICANORKYAMBA/shop-master-django</a></p>
+<p><a href="https://github.com/NICANORKYAMBA/shopMaster">https://github.com/NICANORKYAMBA/shopMaster</a></p>
 
 <h2>Entry Points</h2>
 <ol>
@@ -13,7 +13,7 @@
 <h2>Requirements</h2>
 <p>Run the requirement.txt file to install the requirements.</p>
 
-<p><a href="https://github.com/ShopMaster/shop-master-django/blob/main/requirements.txt">https://github.com/ShopMaster/shop-master-django/blob/main/requirements.txt</a></p>
+<p><a href="https://github.com/NICANORKYAMBA/shopMaster/requirements.txt">https://github.com/ShopMaster/shopMaster/requirements.txt</a></p>
 
 <h2>License</h2>
 <p><a href="https://github.com/ShopMaster/shop-master-django/blob/main/LICENSE.txt">https://github.com/ShopMaster/shop-master-django/blob/main/LICENSE.txt</a></p>
