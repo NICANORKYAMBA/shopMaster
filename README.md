@@ -2,7 +2,7 @@
 
 <p>This Repository contains the backend code for the Shop Master for Django application.</p>
 
-<p><a href="https://github.com/ShopMaster/shop-master-django">https://github.com/ShopMaster/shop-master-django</a></p>
+<p><a href="https://github.com/NICANORKYAMBA/shop-master-django">https://github.com/NICANORKYAMBA/shop-master-django</a></p>
 
 <h2>Entry Points</h2>
 <ol>
